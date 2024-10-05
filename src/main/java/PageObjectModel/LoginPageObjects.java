@@ -6,6 +6,8 @@ import org.openqa.selenium.WebElement;
 
 public class LoginPageObjects {
 	
+	// This is demo line added for git demo purposed
+	
 	public WebDriver driver;
 	//driver.findElement(By.xpath("")).sendkeys();
 	//We have achieved encapsulation
